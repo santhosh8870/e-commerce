@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.8b0d4a24.css",
+    "main.js": "/e-commerce/static/js/main.cd996398.js",
+    "static/media/img11.png": "/e-commerce/static/media/img11.4af4f1d8b404acc4cfc2.png",
+    "static/media/img18.png": "/e-commerce/static/media/img18.650ddd8896c506c1d374.png",
+    "static/media/img9.png": "/e-commerce/static/media/img9.a633f51ae69f25a50f7d.png",
+    "static/media/img13.png": "/e-commerce/static/media/img13.857d4c175ddd89dc08a8.png",
+    "static/media/img2.png": "/e-commerce/static/media/img2.0daf7475efc8ad7bf978.png",
+    "static/media/img23.png": "/e-commerce/static/media/img23.3010a904fa2e55c0a6db.png",
+    "static/media/img24.png": "/e-commerce/static/media/img24.3010a904fa2e55c0a6db.png",
+    "static/media/img22.png": "/e-commerce/static/media/img22.732ddec575ffd5a6bfc9.png",
+    "static/media/img26.png": "/e-commerce/static/media/img26.9c9489270d879189e60b.png",
+    "static/media/img5.png": "/e-commerce/static/media/img5.c9836840509ba2011b80.png",
+    "static/media/img17.png": "/e-commerce/static/media/img17.af17c1034737384eb487.png",
+    "static/media/img21.png": "/e-commerce/static/media/img21.3c4ee95bf519932f4f83.png",
+    "static/media/img15.png": "/e-commerce/static/media/img15.62945ab2ff77637e72cd.png",
+    "static/media/img4.png": "/e-commerce/static/media/img4.d37ef1e57fd64e512c22.png",
+    "static/media/img20.png": "/e-commerce/static/media/img20.1ed6c095834e2191b2a8.png",
+    "static/media/img7.png": "/e-commerce/static/media/img7.2f8867d40f6133db35a0.png",
+    "static/media/img12.png": "/e-commerce/static/media/img12.ae2ae875504858d5f53f.png",
+    "static/media/img16.png": "/e-commerce/static/media/img16.a0b9cd508ca58695f882.png",
+    "static/media/img14.png": "/e-commerce/static/media/img14.0fbed6cd141c2127574a.png",
+    "static/media/img27.png": "/e-commerce/static/media/img27.1200829e08a6fcc318ac.png",
+    "static/media/img29.png": "/e-commerce/static/media/img29.bee06cde49ab149d9a4c.png",
+    "static/media/img30.png": "/e-commerce/static/media/img30.6253b6b7653778dce64c.png",
+    "static/media/img28.png": "/e-commerce/static/media/img28.98a7a3d50a30a3f6ef78.png",
+    "static/media/img10.png": "/e-commerce/static/media/img10.615f2cddf96508e50d70.png",
+    "static/media/img19.png": "/e-commerce/static/media/img19.a3b7891efc071c065e5e.png",
+    "static/media/img6.png": "/e-commerce/static/media/img6.4ecaf640fb22e0c86055.png",
+    "static/media/img3.png": "/e-commerce/static/media/img3.8d53c7e14bc57c0249bb.png",
+    "static/media/img1.png": "/e-commerce/static/media/img1.35abaefbcf20b51e0f21.png",
+    "static/media/img8.png": "/e-commerce/static/media/img8.31a819ec9b203136d3d5.png",
+    "index.html": "/e-commerce/index.html",
+    "main.8b0d4a24.css.map": "/e-commerce/static/css/main.8b0d4a24.css.map",
+    "main.cd996398.js.map": "/e-commerce/static/js/main.cd996398.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0d4a24.css",
+    "static/js/main.cd996398.js"
+  ]
+}
